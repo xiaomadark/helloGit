@@ -16,7 +16,7 @@ public class Test {
         System.out.println("主干添加");
         System.out.println("分支添加");
         System.out.println("在下更新");
-        System.out.printLn("在线更新测试")
+        System.out.println("在线更新测试");
         
     }
 }
